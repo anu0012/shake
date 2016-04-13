@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">shake</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="s1">Everyone has a unique tongue print, just like fingerprints.</string>
+    <string name="s2">Light doesn’t necessarily travel at the speed of light. The slowest we’ve ever recorded light moving at is 38 mph.</string>
+    <string name="s3">The top of the Eiffel Tower leans away from the sun, as the metal facing the sun heats up and expands. It can move as much as seven inches.</string>
+    <string name="s4">The only number whose letters are in alphabetical order is 40 (f-o-r-t-y).</string>
+    <string name="s5">Hewlett Packard, Microsoft, as well as Apple have one not so obvious thing in common – they were all started in a garage.</string>
+    <string name="s6">Every minute, 100 hours of video are uploaded on YouTube by individual users.</string>
+    <string name="s7">There are 350 million Snapchat messages sent every day.</string>
+    <string name="s8">Skype is banned from the public in China.</string>
+    <string name="s9">Pac Man was invented by the designer Toru Iwatani while he was eating pizza.</string>
+    <string name="s10">In the original arcade version of Donkey Kong, Mario was called jump man and he was carpenter not plumber.</string>
+
+
+</resources>
